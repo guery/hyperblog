@@ -5,3 +5,5 @@ Santiago tiene 6 años de edad  y nacio en La Paz - Bolivia
 Tiene una hermana menor de 2 años llamada Elena
 
 Hablaremos de su historia
+
+El estudia en el colegio Boliviano Noruego y es muy bueno en sus estudios
